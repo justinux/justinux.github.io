@@ -155,6 +155,11 @@ img {
 .masthead {
   padding: 20px 0;
   //border-bottom: 1px solid $lightGray;
+  a {
+    &:hover, &:active {
+      color: #fff;
+    }
+  }
 
   @include mobile {
     text-align: center;
