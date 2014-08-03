@@ -149,17 +149,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: #1abc9c;
 }
 
 .masthead {
   padding: 20px 0;
-  //border-bottom: 1px solid $lightGray;
-  a {
-    &:hover, &:active {
-      color: #fff;
-    }
-  }
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
