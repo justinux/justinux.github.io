@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Second post just trying it out
+title: Abstract Interfaces
 ---
 
 ![rageUIimage](/images/RageUI.png)
 
-Really excited to have a new blog site up to talk about what I've been working on and new findings.
+Thought it would be pretty fun to take my abstract painting influences and mix them with UI Design.
+If you can't tell I went with a Warrior theme :).
